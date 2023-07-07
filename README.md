@@ -40,3 +40,11 @@ Each method is explored in detail within the notebook.
 
 Feel free to explore the notebooks and use them to generate VR content for your projects!
 
+
+
+## Further links
+
+[The VR backend github repository](https://github.com/menchelab/DataDiVR_WebApp)
+
+
+[A handbook that covers the main features of the interactive panels in VR](https://docs.google.com/document/d/1L_ag88HSlDYvVnmJYiouArNd49CO7_sSKbpwvjgwquo/edit?usp=sharing)
