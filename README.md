@@ -5,7 +5,9 @@
 
 This repository contains a collection of notebooks for generating VR content using the Barabasi-Albert network and expression profiles data. Each notebook focuses on different aspects of the VR visualization process.
 
-To quickly begin running a notebook in google colab, view the file in github and edit the `github.com` in the URL to `githubtocolab.com`, e.g. for  `https://github.com/menchelab/ISMB_ECCB_2023_Network_VR_Visualization/blob/main/1_Minimal_Example_Notebook.ipynb` edit the URL to  `https://githubtocolab.com/menchelab/ISMB_ECCB_2023_Network_VR_Visualization/blob/main/1_Minimal_Example_Notebook.ipynb`  
+To quickly begin running a notebook in google colab, view the file in github and edit the `github.com` in the URL to `githubtocolab.com`, e.g. for  `https://github.com/menchelab/ISMB_ECCB_2023_Network_VR_Visualization/blob/main/1_Minimal_Example_Notebook.ipynb`  
+edit the URL to  
+`https://githubtocolab.com/menchelab/ISMB_ECCB_2023_Network_VR_Visualization/blob/main/1_Minimal_Example_Notebook.ipynb`  
 and you will be redirected to an active colab notebook containg the same code.
 
 ## Minimal Network Upload 
