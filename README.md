@@ -5,6 +5,31 @@
 
 This repository contains a collection of notebooks for generating VR content using the Barabasi-Albert network and expression profiles data. Each notebook focuses on different aspects of the VR visualization process.
 
+## Minimal Network Upload 
+Build the dolphin friendship network as a simple example.
+The results are exported for DataDiVR upload.
+
+## PPI Subnetwork Selection 
+The information needed for creating the PPI is downloaded form the STRING database
+THe PPI is created as a networkx object, with appropriate filtering for score.
+A gene list is provided and the subnetwork of genes in the gene  list and the neighbors are selected.
+Leaves in the subnetwork are filtered out.
+The results are exported for DataDiVR upload.
+
+## Customisable UMAP Layout
+Use the umap package to build a weighted similarity network on a dataset
+Try out different layouts of that network.
+The results are exported for DataDiVR upload.
+
+## Correlation Network
+Make a correlation network across the features in a dataset.
+Filter that network with betweenness centrality to make it sparser.
+The results are exported for DataDiVR upload.
+
+# Extra Notebooks
+
+Especially for those already familiar with network science.
+
 ## Basic Barabasi-Albert Network
 
 [Google colab notebook](https://drive.google.com/file/d/1D0ZJWeCBZnKMDbemrFh4j1_xMa0vzjxf/view?usp=sharing)
