@@ -1,4 +1,4 @@
-# netsci2023
+# ISMB/ECCB 2023
 
 
 # VR Material - Overview
